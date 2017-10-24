@@ -15,7 +15,7 @@ An hybrid of a Promise and the Either monad creates the abstraction of a chain o
 ## Usage
 
 ```
-./github_stargazers rails/rails
+ruby github_stargazers.rb rails/rails
 ```
 
 ## License
